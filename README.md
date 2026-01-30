@@ -1,5 +1,3 @@
-# git-im-team
-
 # Git im Team Prozess (kurz)
 
 ## Branches benennen
