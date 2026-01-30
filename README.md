@@ -46,5 +46,5 @@ Zusammenfassend:
 - PULL REQUEST auf Github stellen (=> grüner Button "OPEN & COMPARE PullRequest")
 - Wenn die Meldung kommt "Able to Merge" => Branch mergen
 - Danach: Den main branch lokal aktualisieren: `git checkout main` und danach `git pull`
-- Danach: NÄCHSTEN Feature Branch erstellen `git checkout -b /feature/<naechstesFeature>`
+- Danach: NÄCHSTEN Feature Branch erstellen `git checkout -b feature/<naechstesFeature>`
 - Und dann wiederholt sich alles immer wieder :)
